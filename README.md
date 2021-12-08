@@ -72,4 +72,4 @@ If you get stuck, the Sanity community I was talking about can be found here on 
 
 
 
-**Enjoy Coding!
+**Enjoy Coding!**
