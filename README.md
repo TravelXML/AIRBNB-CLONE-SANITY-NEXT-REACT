@@ -1,5 +1,7 @@
 # AIRBNB CLONE using REACT / NEXT / SANITY
 
+![airbnb-clone](https://user-images.githubusercontent.com/8361967/145212233-478dab49-a4d5-49d2-9a0c-f6add21e5f6f.png)
+
 Airbnb Clone - Create Backend and Frontend  for Airbnb app using React, Next, Sanity.io
 
 
