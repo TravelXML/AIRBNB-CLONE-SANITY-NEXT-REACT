@@ -15,7 +15,7 @@ Let's first Up the Backend with Sanity CMS then we will go to Frotend, to displa
 
 ### Next.js
 
-[Next.js] (https://nextjs.org/) gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+(Next.js) [https://nextjs.org/] gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
 
 
 ### React.js
