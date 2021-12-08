@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# AIRBNB CLONE Using REACT / NEXT / SANITY
 
-You can use the [editor on GitHub](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![airbnb-clone](https://user-images.githubusercontent.com/8361967/145212233-478dab49-a4d5-49d2-9a0c-f6add21e5f6f.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Airbnb Clone - Create Backend and Frontend for Airbnb App using React, Next, Sanity.io
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Getting Started
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Let's first Up the Backend with Sanity CMS then we will go to Frotend, to display structured data's via Sanity SDK and React HOOK
 
-- Bulleted
-- List
+### Sanity
 
-1. Numbered
-2. List
+[Sanity](https://www.sanity.io/) is the most flexible platform for building data driven content solutions.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Next.js
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Next.js](https://nextjs.org/) gives the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### React.js
 
-### Support or Contact
+[React.js](https://reactjs.org/)  JavaScript library for building interactive user interfaces
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## Backend
+
+### Step 1: Download file  >> go to **backend** folder then run the  below commands.
+
+    npm i
+
+### Step 2: Run the development server:
+
+    sanity start
+
+it will up the backend server to create schemas then access those schemas on frontend.
+
+![image](https://user-images.githubusercontent.com/8361967/145203826-02b46513-a38a-4861-b4ec-e6db12fe7f42.png)
+
+Open http://localhost:3333 with your browser to see the result.
+
+![image](https://user-images.githubusercontent.com/8361967/145208392-aa47e7e6-717c-472c-932a-7129752c476d.png)
+
+
+## Frontend
+
+### Step 3: Now we are good to go ahead with Frontend, Run the below command, install the required packages:
+
+    npm i
+
+### Step 4: Run the server
+
+    npm run dev
+    # or
+    yarn dev
+
+![image](https://user-images.githubusercontent.com/8361967/145203736-9e9bc700-3970-4953-bd63-b3f641c014b8.png)
+
+
+Open http://localhost:3000 with your browser to see the result.
+
+![image](https://user-images.githubusercontent.com/8361967/145207531-8bc8e718-1b36-4edd-86b5-4703974f928b.png)
+
+
+## Help
+
+If you get stuck, the Sanity community I was talking about can be found here on the Sanity Exchange (https://www.sanity.io/exchange) and the Sanity Slack Community (https://slack.sanity.io/).
+
+
+
+
+**Enjoy Coding!**
