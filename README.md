@@ -11,11 +11,11 @@ Let's first Up the Backend with Sanity CMS then we will go to Frotend, to displa
 
 ## Backend
 
-Step 1: Download file  >> go to **backend** folder then run the  below commands.
+### Step 1: Download file  >> go to **backend** folder then run the  below commands.
 
     npm i
 
-Step 2: Run the development server:
+### Step 2: Run the development server:
 
     sanity start
 
@@ -30,11 +30,11 @@ Open http://localhost:3333 with your browser to see the result.
 
 ## Frontend
 
-Step 3: Now we are good to go ahead with Frontend, Run the below command, install the required packages:
+### Step 3: Now we are good to go ahead with Frontend, Run the below command, install the required packages:
 
     npm i
 
-Step 4: Run the server
+### Step 4: Run the server
 
     npm run dev
     # or
@@ -51,6 +51,7 @@ Open http://localhost:3000 with your browser to see the result.
 ## Help
 <hr/>
 If you get stuck, the Sanity community I was talking about can be found here on the Sanity Exchange (https://www.sanity.io/exchange) and the Sanity Slack Community (https://slack.sanity.io/).
+
 
 
 
