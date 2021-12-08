@@ -5,7 +5,6 @@ Airbnb Clone - Create Backend and Frontend  for Airbnb app using React, Next, Sa
 
 # Getting Started
 
-<hr/>
 
 Let's first Up the Backend with Sanity CMS then we will go to Frotend, to display structured data via Sanity SDK and React HOOK
 
@@ -49,7 +48,7 @@ Open http://localhost:3000 with your browser to see the result.
 
 
 ## Help
-<hr/>
+
 If you get stuck, the Sanity community I was talking about can be found here on the Sanity Exchange (https://www.sanity.io/exchange) and the Sanity Slack Community (https://slack.sanity.io/).
 
 
