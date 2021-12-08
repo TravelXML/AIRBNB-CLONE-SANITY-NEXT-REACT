@@ -8,6 +8,22 @@ Airbnb Clone - Create Backend and Frontend  for Airbnb app using React, Next, Sa
 
 Let's first Up the Backend with Sanity CMS then we will go to Frotend, to display structured data via Sanity SDK and React HOOK
 
+### Sanity
+
+[Sanity](https://www.sanity.io/) is the most flexible platform for building data driven content solutions.
+
+
+### Next.js
+
+[Next.js] (https://nextjs.org/) gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+
+
+### React.js
+
+[React.js](https://reactjs.org/)  JavaScript library for building user interfaces
+
+
+
 ## Backend
 
 ### Step 1: Download file  >> go to **backend** folder then run the  below commands.
