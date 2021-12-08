@@ -1,14 +1,14 @@
-# AIRBNB CLONE using REACT / NEXT / SANITY
+# AIRBNB CLONE Using REACT / NEXT / SANITY
 
 ![airbnb-clone](https://user-images.githubusercontent.com/8361967/145212233-478dab49-a4d5-49d2-9a0c-f6add21e5f6f.png)
 
-Airbnb Clone - Create Backend and Frontend  for Airbnb app using React, Next, Sanity.io
+## Airbnb Clone - Create Backend and Frontend for Airbnb App using React, Next, Sanity.io
 
 
 # Getting Started
 
 
-Let's first Up the Backend with Sanity CMS then we will go to Frotend, to display structured data via Sanity SDK and React HOOK
+Let's first Up the Backend with Sanity CMS then we will go to Frotend, to display structured data's via Sanity SDK and React HOOK
 
 ### Sanity
 
@@ -17,7 +17,7 @@ Let's first Up the Backend with Sanity CMS then we will go to Frotend, to displa
 
 ### Next.js
 
-[Next.js][https://nextjs.org/] gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+[Next.js](https://nextjs.org/) gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
 
 
 ### React.js
