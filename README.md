@@ -1,39 +1,37 @@
 # AIRBNB CLONE using REACT / NEXT / SANITY
-Airbnb Clone - Backend and Frontend using React, Next, Sanity
-AirBnb Clone with structured content using Sanity.io and Next.js
+Airbnb Clone - Create Backend and Frontend  for Airbnb app using React, Next, Sanity.io
 
 If you get stuck, the Sanity community I was talking about can be found here on the Sanity Exchange (https://www.sanity.io/exchange) and the Sanity Slack Community (https://slack.sanity.io/).
-
-Download file got frontend folder then run the se below commands
-
 # Getting Started
+
 <hr/>
+
+Let's first Up the Backend Sanity CMS then we will go for Frotend to display structured  Data via React HOOK
 
 ## Backend
 
-let's first Up the Backend Sanity CMS then we will go for Frotend to display the Sanity Data's via React HOOK
-
-
-First navigate to backend folder, install the packages:
+Step 1: Download file  >> go to **backend** folder then run the  below commands.
 
     npm i
 
-Second, run the development server:
+Step 2: Run the development server:
 
     sanity start
 
-it will up the backend server to create schema then access schemas for frontend
+it will up the backend server to create schema then access those schemas for frontend display.
 
 ![image](https://user-images.githubusercontent.com/8361967/145203826-02b46513-a38a-4861-b4ec-e6db12fe7f42.png)
 
 Open http://localhost:3333 with your browser to see the result.
 
+## Frontend
 
-First navigate to backend folder, install the packages:
+Step 3: Now we are good to go ahead with Frontend, Run the below command, install the packages:
 
     npm i
 
-then run  the below command to up local server
+Step 4: Run the server
+
     npm run dev
     # or
     yarn dev
@@ -42,3 +40,9 @@ then run  the below command to up local server
 
 
 Open http://localhost:3000 with your browser to see the result.
+
+![image](https://user-images.githubusercontent.com/8361967/145207531-8bc8e718-1b36-4edd-86b5-4703974f928b.png)
+
+
+
+Enjoy Coding!
