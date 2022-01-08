@@ -24,11 +24,6 @@ If you get stuck, the Sanity community I was talking about can be found here on 
 The backend to my project, can be found [here](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT/tree/main/backend)
 
 Google Maps API info can be found [here](https://developers.google.com/maps)
-____
-
-In most videos I use Tabnine as my A.I autocompletion tool. You can download it for free [here](http://bit.ly/tabnine-top-tool)
-
-If you would like to buy me a coffee, well thank you very much that is mega kind! : https://www.buymeacoffee.com/aniakubow
 
 
 
