@@ -21,7 +21,7 @@ Topics we will be touching on:
 
 If you get stuck, the Sanity community I was talking about can be found here on the Sanity Exchange (https://www.sanity.io/exchange) and the Sanity Slack Community (https://slack.sanity.io/).
 
-The backend to my project, can be found [here](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT/backend )
+The backend to my project, can be found [here](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT/tree/main/backend)
 
 Google Maps API info can be found [here](https://developers.google.com/maps)
 ____
